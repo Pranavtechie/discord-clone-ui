@@ -1,0 +1,110 @@
+@font-face {
+    font-family: '.';
+    src: local('.'),
+        url('062cbd3e35f6278b26e4ebce59c086cd.woff2') format('woff2'),
+        url('062cbd3e35f6278b26e4ebce59c086cd.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: '.';
+    src: local('.'),
+        url('0e1818bff2488c9e77bd456e3f2bcdc0.woff2') format('woff2'),
+        url('0e1818bff2488c9e77bd456e3f2bcdc0.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: '.';
+    src: local('.'),
+        url('8d571b089f173402122dbed8b0ba77f4.woff2') format('woff2'),
+        url('8d571b089f173402122dbed8b0ba77f4.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: '.';
+    src: local('.'),
+        url('de5cf858a5e5f507a0935804b26a79f9.woff2') format('woff2'),
+        url('de5cf858a5e5f507a0935804b26a79f9.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: '.';
+    src: local('.'),
+        url('2733e2b2bc5cdf94f6d3e3d5606e88af.woff2') format('woff2'),
+        url('2733e2b2bc5cdf94f6d3e3d5606e88af.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: '.';
+    src: local('.'),
+        url('4838cd2f8f81f96f32489c6a3c7b546c.woff2') format('woff2'),
+        url('4838cd2f8f81f96f32489c6a3c7b546c.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: '.';
+    src: local('.'),
+        url('b03c9fb0d80860791b41d80f902ca52a.woff2') format('woff2'),
+        url('b03c9fb0d80860791b41d80f902ca52a.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: '.';
+    src: local('.'),
+        url('e52cf90d041b3fc55d5a0dea692ae908.woff2') format('woff2'),
+        url('e52cf90d041b3fc55d5a0dea692ae908.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: '.';
+    src: local('.'),
+        url('02fb4d79e15b2a0e9c85b1af9cefdb56.woff2') format('woff2'),
+        url('02fb4d79e15b2a0e9c85b1af9cefdb56.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: '.';
+    src: local('.'),
+        url('c94d61e79c190a92fab015e59be648b7.woff2') format('woff2'),
+        url('c94d61e79c190a92fab015e59be648b7.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: '.';
+    src: local('.'),
+        url('1a331f65d51dabb51ea30754c2f63923.woff2') format('woff2'),
+        url('1a331f65d51dabb51ea30754c2f63923.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+

@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+
+@font-face {
+  font-family: "Ginto";
+  src: local("."), url("de5cf858a5e5f507a0935804b26a79f9.woff2") format("woff2"),
+    url("de5cf858a5e5f507a0935804b26a79f9.woff") format("woff");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+@tailwind utilities;
